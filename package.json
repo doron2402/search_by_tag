@@ -1,0 +1,30 @@
+{
+  "name": "search_by_tag",
+  "version": "0.0.1",
+  "description": "Search by tag will break a tag query into array of strings",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doron2402/search_by_tag.git"
+  },
+  "keywords": [
+    "search",
+    "by",
+    "tags",
+    "Tags",
+    "sql",
+    "contains"
+  ],
+  "author": "Doron Segal <doron@saildrone.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/search_by_tag/issues"
+  },
+  "homepage": "https://github.com/doron2402/search_by_tag#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
