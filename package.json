@@ -1,6 +1,6 @@
 {
-  "name": "search_by_tag",
-  "version": "0.1",
+  "name": "search_by_tags",
+  "version": "0.1.0",
   "description": "Search by tag will break a tag query into array of strings",
   "main": "lib/index.js",
   "scripts": {
